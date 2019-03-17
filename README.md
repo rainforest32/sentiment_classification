@@ -1,0 +1,2 @@
+# sentiment_classification
+双向lstm+attention对豆瓣评论进行情感分类
